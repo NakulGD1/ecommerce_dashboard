@@ -19,7 +19,7 @@ This project showcases the creation of a dynamic sales dashboard for e-commerce 
   - Slicers for Region, Category, Returned, and Date
 
 ## Dataset
-- `cleaned_ecommerce.csv` – contains 500 synthetic e-commerce transactions.
+- `ecommerce.csv` – contains 500 synthetic e-commerce transactions.
 
 ## Tools & Technologies
 - Python (Pandas, NumPy)
